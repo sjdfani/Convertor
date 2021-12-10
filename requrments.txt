@@ -1,0 +1,4 @@
+PyQt5==5.15.4
+pyqt5-tools==5.15.4.3.2
+Pillow==8.4.0
+moviepy==1.0.3
